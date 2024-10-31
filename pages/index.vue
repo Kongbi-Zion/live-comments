@@ -6,10 +6,13 @@
       <div class="bg-[#171b26] w-full rounded-lg p-6 md:p-8">
         <div class="w-full flex justify-between">
           <div class="flex items-center gap-3">
-            <img src="/profile.webp" class="h-9 w-9 rounded-full" />
+            <img
+              src="https://d14x58xoxfhz1s.cloudfront.net/6d26bf94-1114-446a-b9fa-948ee8b164d7"
+              class="h-9 w-9 rounded-full"
+            />
 
             <div class="flex">
-              <p class="font-medium text-gray-100">Amplify</p>
+              <p class="font-medium text-gray-100">Educloud Academy</p>
               <span>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -22,7 +25,7 @@
                   />
                 </svg>
               </span>
-              <span class="font-normal"> <span>Wed 10th 2024</span></span>
+              <span class="font-normal"> <span>Thus 31st 2024</span></span>
             </div>
           </div>
           <div>
@@ -41,22 +44,27 @@
 
         <div class="w-full px-11 pt-2 space-y-5">
           <p>
-            🗃️ ⚡ Today the amplify team just launched a new feature. That is an
-            integration between Amplify Hosting and Amazon S3, making it easier
-            to deploy static website content.
+            🗃️ ⚡ Educloud Academy is an online educational platform focused on
+            cloud computing, offering practical projects on AWS, Azure, and
+            Google Cloud.
           </p>
 
           <div class="">
             <p>
               🔗 Learn more ⏩
               <NuxtLink
-                to="https://x.com/awsamplify/status/1851676097663910103?s=46&t=NXUmr2wfqcEBnleg_e1Njg"
+                to="https://www.educloud.academy"
                 target="_blank"
                 class="text-purple-500 break-words"
-                >https://x.com/awsamplify/status/1851676097663910103?s=46&t=NXUmr2wfqcEBnleg_e1Njg</NuxtLink
+                >https://www.educloud.academy</NuxtLink
               >
             </p>
           </div>
+
+          <p>
+            If you have used this platform before, let me know what you think
+            about the platform in the comments section below
+          </p>
 
           <!-- <div>
             <img
@@ -65,15 +73,12 @@
           </div> -->
 
           <div class="md:flex bg-[#20232e] rounded-md">
-            <img
-              src="https://pbs.twimg.com/media/GbJ5mPgXYAAwL9z?format=jpg&name=900x900"
-              class="md:w-32 object-cover"
-            />
+            <img src="/educloud_logo.jpg" class="md:w-32 object-cover" />
             <div class="p-3">
               <p>
-                🗃️ ⚡ Today the amplify team just launched a new feature. That
-                is an integration between Amplify Hosting and Amazon S3, making
-                it easier to deploy static website content.
+                🗃️ ⚡ Educloud Academy is an online educational platform focused
+                on cloud computing, offering practical projects on AWS, Azure,
+                and Google Cloud...
               </p>
             </div>
           </div>
