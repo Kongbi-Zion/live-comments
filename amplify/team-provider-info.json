@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-livecomments-dev-361b7-authRole",
+      "UnauthRoleArn": "arn:aws:iam::132260253285:role/amplify-livecomments-dev-361b7-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::132260253285:role/amplify-livecomments-dev-361b7-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-livecomments-dev-361b7-deployment",
+      "UnauthRoleName": "amplify-livecomments-dev-361b7-unauthRole",
+      "StackName": "amplify-livecomments-dev-361b7",
+      "StackId": "arn:aws:cloudformation:us-east-2:132260253285:stack/amplify-livecomments-dev-361b7/0a5736a0-978f-11ef-b402-06ebac8b5fe1",
+      "AmplifyAppId": "d32txokstri4ei"
+    }
+  }
+}
